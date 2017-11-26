@@ -47,3 +47,7 @@ a {
 a:hover {
 	color: rgb(111,127,122);
 }
+
+img {
+	border-width: 2px;
+}
